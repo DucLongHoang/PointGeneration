@@ -1,0 +1,29 @@
+<svg width="350" height="275" viewBox="100 100 350 275" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="clip">
+<rect x="100" y="100" width="350" height="275" />
+</clipPath>
+</defs>
+<polygon points="150,150 250,100 325,125 375,225 450,250 275,375 100,300 " stroke="black" fill="none" />
+<rect x="100" y="100" width="350" height="275" stroke="black" fill="none" />
+<circle cx="227" cy="289" r="1" stroke="red" fill="red" />
+<circle cx="227" cy="289" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="372" cy="294" r="1" stroke="red" fill="red" />
+<circle cx="372" cy="294" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="324" cy="325" r="1" stroke="red" fill="red" />
+<circle cx="324" cy="325" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="201" cy="176" r="1" stroke="red" fill="red" />
+<circle cx="201" cy="176" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="159" cy="299" r="1" stroke="red" fill="red" />
+<circle cx="159" cy="299" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="395" cy="263" r="1" stroke="red" fill="red" />
+<circle cx="395" cy="263" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="359" cy="256" r="1" stroke="red" fill="red" />
+<circle cx="359" cy="256" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="299" cy="159" r="1" stroke="red" fill="red" />
+<circle cx="299" cy="159" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="177" cy="309" r="1" stroke="red" fill="red" />
+<circle cx="177" cy="309" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+<circle cx="280" cy="279" r="1" stroke="red" fill="red" />
+<circle cx="280" cy="279" r="25" stroke="red" fill="none" clip-path="url(#clip)" />
+</svg>
