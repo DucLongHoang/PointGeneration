@@ -23,9 +23,6 @@
 hs_err_pid*
 
 # IDE and out folder
-.idea
+.idea/
 img/
-out
-
-# outputted SVG files
-*.svg
+out/
