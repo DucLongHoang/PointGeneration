@@ -12,6 +12,9 @@
     <list default="true" id="b3ded9f8-fbac-4a74-af8b-7d0ae44ddf8c" name="Changes" comment="entire project, second attempt">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/poisson_25_10_10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/random_25_10_10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/voronoi_25_10_10.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "S:/Git/UWB/bachelor_thesis/PointGeneration",
+    "last_opened_file_path": "S:/University/2nd year/Pri_Sem/Diseňo Software/Assignments/all",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25172412",
