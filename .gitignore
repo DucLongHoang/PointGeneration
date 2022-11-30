@@ -25,6 +25,5 @@ hs_err_pid*
 # IDE and out folder
 .idea/
 img/
-<<<<<<< HEAD
 out/
 *.iml
